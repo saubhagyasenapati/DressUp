@@ -30,5 +30,5 @@ EditorBuildSettings:
     path: Assets/Scenes/Updated/Scenes/Store.unity
     guid: 28f97dd741b0eda4f817ca2b456a4fa9
   m_configObjects:
-    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: ec21b475e127b474bb6e3a404817e112, type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 3815097a07a6e3a4da177d615c27921b, type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 98fb4b379b914ca4a98befc6ff94a91d, type: 2}
